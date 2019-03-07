@@ -1,0 +1,14 @@
+.addressRow {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.addressLabel {
+    width: 100px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.addressField {
+    width: 165px;
+}
