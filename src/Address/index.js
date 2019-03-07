@@ -3,7 +3,6 @@ import { connect } from 'react-redux'
 import Address from './Address'
 import { reduxForm, initialize } from 'redux-form'
 import _ from 'lodash'
-import { loadAddressData } from '../store/reducers/addressReducer'
 
 const ADDRESS_FORM = 'addressForm'
 

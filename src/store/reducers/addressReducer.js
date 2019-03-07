@@ -1,4 +1,4 @@
-export const LOAD_ADDRESS = 'redux-form/addressForm/LOAD'
+export const LOAD_ADDRESS = 'LOAD_ADDRESS'
 
 export const address = (state = {}, action) => {
   switch (action.type) {
